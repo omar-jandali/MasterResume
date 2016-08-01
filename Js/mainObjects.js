@@ -13,6 +13,8 @@ List of objects-
  education
  quotes
 
+all of the objects will be turned into HTML objects and elements.
+
 */
 
 var basicInfo = {
@@ -76,7 +78,6 @@ var portfolio = {
   {
    "title" : "",
    "developer" : "",
-   "dates" : "",
    "url" : "",
    "github" : "",
    "image" : "",
@@ -85,7 +86,6 @@ var portfolio = {
   {
    "title" : "",
    "developer" : "",
-   "dates" : "",
    "url" : "",
    "github" : "",
    "image" : "",
@@ -94,7 +94,6 @@ var portfolio = {
   {
    "title" : "",
    "developer" : "",
-   "dates" : "",
    "url" : "",
    "github" : "",
    "image" : "",
@@ -103,7 +102,6 @@ var portfolio = {
   {
    "title" : "",
    "developer" : "",
-   "dates" : "",
    "url" : "",
    "github" : "",
    "image" : "",
@@ -113,6 +111,36 @@ var portfolio = {
 }
 
 var experience = {
+  "jobs":[
+    {
+      "name":"OmnaCore Marketing",
+      "position":"Founder",
+      "dates":"September 2015 - Present",
+      "location":"Mission Viejo, CA",
+      "description":""
+    },
+    {
+      "name":"Addrenal",
+      "position":"Social Media Specialist",
+      "dates":"January 2016 - March 2016",
+      "location":"Huntington Beach, CA",
+      "description":""
+    },
+    {
+      "name":"Freelance",
+      "position":"Web Design",
+      "dates":"January 2015 - September 2015",
+      "location":"Riverside, CA",
+      "description":""
+    },
+    {
+      "name":"Freelance",
+      "position":"Social Media Strategist",
+      "dates":"January 2015 - September 2015",
+      "location":"Riverside, CA",
+      "description":""
+    }
+  ]
 }
 
 var education = {
