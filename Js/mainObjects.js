@@ -71,12 +71,92 @@ var quotes = [
  "Don't be afraid of new arenas. - Elon Musk"
 ]
 
-var projects = {
+var portfolio = {
+ "projects" : [
+  {
+   "title" : "",
+   "developer" : "",
+   "dates" : "",
+   "url" : "",
+   "github" : "",
+   "image" : "",
+   "description" : ""
+  },
+  {
+   "title" : "",
+   "developer" : "",
+   "dates" : "",
+   "url" : "",
+   "github" : "",
+   "image" : "",
+   "description" : ""
+  },
+  {
+   "title" : "",
+   "developer" : "",
+   "dates" : "",
+   "url" : "",
+   "github" : "",
+   "image" : "",
+   "description" : ""
+  },
+  {
+   "title" : "",
+   "developer" : "",
+   "dates" : "",
+   "url" : "",
+   "github" : "",
+   "image" : "",
+   "description" : ""
+  }
+ ]
 }
 
 var experience = {
 }
 
 var education = {
+  "school" : [
+    {
+      "name":"Riverside Poly High School",
+      "dates":"August 29, 2007 - June 16, 2011",
+      "degree":"High School Diploma",
+      "url":"http://www.rusdlink.org/poly"
+    },
+    {
+      "name":"La Sierra University",
+      "dates":"September 23, 2011 - May 29, 2013",
+      "degree":"Bachelor's Degree",
+      "major":"Biology",
+      "url":"http://www.lasierra.edu"
+    },
+    {
+      "name":"Saddleback College",
+      "dates":"August 29, 2013 - May 29, 2015",
+      "degree":"Bachelor's Degree",
+      "major":"Marketing",
+      "url":"http://wwww.saddleback.edu"
+    }
+  ]
+  "online" : [
+    {
+      "name":"Arizona State University",
+      "dates":"September 02, 2015 - Current",
+      "degree":"Marketing",
+      "url":"http://wwww.asu.edu"
+    },
+    {
+      "name":"Code Academy",
+      "dates":"June 02, 2015 - September 30, 2015",
+      "degree":"",
+      "url":"http://www.codeacademy.com"
+    },
+    {
+      "name":"Udacity",
+      "dates":"May 29, 2016 - Current",
+      "degree":"Front End Web Developer Nanodegree",
+      "url":"http://www.udacity.com"
+    }
+  ]
 }
 
