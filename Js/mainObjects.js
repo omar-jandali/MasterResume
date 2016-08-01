@@ -21,6 +21,24 @@ var basicInfo = {
  "name":"Omar Jandali",
  "role":"Front End Web Developer",
  "message":"INSERT HERE"
+ "image":"",
+}
+
+var aboutMe = {
+  "summary":"Welcome to my official website. As you can tell by the website, my name is Omar Jandali. I
+   am currently 23 years old and I have am currently pursuing and furthering my knowledge in Programming
+   and web development. I have been working in Web Development for the past year and have taken certified
+   courses in online programs like Code Academy and Udacity. I currently work in freelance assisting clients
+   in building website and other small projects."
+  "generalFacts":[
+    "Greatest strength - adaptability",
+    "Greatest weakness - Impulsive",
+    "Myself in 5 years - Company founder",
+    "Dream job - Full-stack web developer at Google",
+    "Work Environment - Open and creative environment",
+    "Describe myself - Energetic, creative, ambitious",
+    "Hobbies - Film-maker, photographer, adrenaline junkie"
+  ]
 }
 
 var contactInfo = {
@@ -188,3 +206,24 @@ var education = {
   ]
 }
 
+var navigation = [
+  "Home",
+  "About Me",
+  "Portfolio",
+  "Skills",
+  "Experience",
+  "Education",
+  "Blog",
+  "Contact"
+]
+
+var socialMedia = {
+  "facebook":"",
+  "instagram":"",
+  "twitter":"",
+  "youtube":"",
+  "linkedin":"",
+  "skype":"",
+  "github":"",
+  "email":""
+}
