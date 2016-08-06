@@ -40,9 +40,58 @@ var contactInfo = {
   "website":"www.omarjandali.com"
 }
 var portfolio = {
-  "projects":{
-
-  }
+  "websites":[
+    {
+      "name":"OmnaCore Marketing",
+      "author":"Omar Jandali",
+      "dates":"",
+      "url":"http://www.omnacore.com",
+      "github":"",
+      "description":"",
+    },
+    {
+      "name":"Online Resume",
+      "author":"Omar Jandali",
+      "dates":"",
+      "url":"http://www.omarjandali.com",
+      "github":"",
+      "description":"",
+    },
+    {
+      "name":"ItsMeOmarJ",
+      "author":"Omar Jandali",
+      "dates":"",
+      "url":"http://www.itsmeomarj.com",
+      "github":"",
+      "description":"",
+    },
+    {
+      "name":"Fyt",
+      "author":"Omar Jandali",
+      "dates":"",
+      "url":"http://www.fyt.com",
+      "github":"",
+      "description":"",
+    },
+  ]
+  "game":[
+    {
+      "name":"Frogger",
+      "author":"Omar jandali",
+      "dates":"",
+      "url":"",
+      "github":"",
+      "description":"",
+    },
+    {
+      "name":"Card Game",
+      "author":"Omar Jandali",
+      "dates":"",
+      "url":"",
+      "github":"",
+      "description":"",
+    },
+  ]
 }
 var skillsGeneral = {
   "marketing":[
@@ -107,7 +156,59 @@ var experience = {
   ]
 }
 var education = {
-
+  "schools":[
+    {
+      "name":"Poly High School",
+      "location":"Riverside, CA",
+      "dates":"August 2007 - June 2011",
+      "degree":"High School Diploma",
+      "url":"http://www.rusd.edu",
+    },
+    {
+      "name":"La Sierra University",
+      "location":"Riverside, CA",
+      "dates":"September 2011 - June 2013",
+      "degree":"Biology",
+      "url":"http://www.lasierra.edu",
+    },
+    {
+      "name":"Saddleback College",
+      "location":"Mission Viejo, CA",
+      "dates":"September 2013 - May 2015",
+      "degree":"Marketing",
+      "url":"http://www.saddleback.edu",
+    },
+    {
+      "name":"Arizona State University - Online",
+      "location":"Mission Viejo, CA",
+      "dates":"September 2015 - Present",
+      "degree":"Marketing",
+      "url":"http://www.asu.edu",
+    }
+  ]
+  "online":[
+    {
+      "name":"Udacity",
+      "location":"Mission Viejo, CA",
+      "dates":"May 2016 - August 2016",
+      "degree":"Front End Web Developer",
+      "url":"https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001",
+    },
+    {
+      "name":"Udacity",
+      "location":"Mission Viejo, CA",
+      "dates":"August 2016 - PResent",
+      "degree":"Full Stack Web Developer",
+      "url":"https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004",
+    },
+    {
+      "name":"Code Academy",
+      "location":"Mission Viejo, CA",
+      "dates":"January 2016 - April 2016",
+      "degree":"HTML/CSS/Javascript",
+      "url":"http://www.codeacademy.com",
+    }
+  ]
 }
 var socialMedia = {
   "icons":{
@@ -131,6 +232,23 @@ var socialMedia = {
     "skype":""
   }
 }
-var quotes = []
+var quotes = [
+  "Time is the friend of a wonderful businessman, the enemy of the mediocre. - Warren Buffet",
+  "Try not to become a man of success, but rather a man of value. - Albert Einstein",
+  "A business that makes nothing but money is a poor business. - Henry Ford",
+  "No one is born a CEO, but no one tell you that. - Andrew W. Houston",
+  "Timing, perserverence, and ten years of trying will eventually make you look like an overnight success. - Biz Stone",
+  "Always remember to stay self-funded as long as possible. - Garrett Camp",
+  "You dont learn to walk by following rules. You learn by doing and falling over. - Sir Richard Branson"
+]
 
-var navigation = []
+var navigation = [
+  "Home",
+  "About Me",
+  "Portfolio",
+  "Skills",
+  "Expereince",
+  "Education",
+  "Contact",
+  ""
+]
