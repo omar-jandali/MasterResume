@@ -33,7 +33,7 @@ var generalInfo = {
   "name":"Omar Jandali",
   "position":"Front End Web Developer",
   "location":"Mission Viejo, CA",
-  "age":"23 Years old",
+  "age":"23 Years old",.
   "facts":[
     "Greatest strength - motivated, efficient",
     "Greatest weakness - impulsive, distracted",
@@ -57,6 +57,7 @@ var portfolio = {
       "url":"http://www.omnacore.com",
       "github":"",
       "description":"",
+      "image":""
     },
     {
       "name":"Online Resume",
