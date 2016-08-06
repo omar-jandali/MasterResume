@@ -46,3 +46,40 @@ var PositionExperienceHTML = "<h3>fill</h3>";
 var LocationExperienceHTML = "<h4>fill</h4>";
 var DateExperienceHTML = "<h4>fill</h4>";
 var DescriptionExperienceHTML = "<p>fill</p>";
+
+var EducationHeaderHTML = "<h1>fill</h1>";
+var SchoolsTitleHTML = "<h2>fill</h2>";
+var NameSchoolHTML = "<h3>fill</h3>";
+var LocationSchoolHTML = "<h3>fill</h3>";
+var DatesSchoolHTML = "<h4>fill</h4>";
+var DegreeSchoolHTML = "<h4>fill</h4>";
+var DescriptionSchoolHTML = "<p>fill</p>";
+var OnlineTitleHTML = "<h2>fill</h2>";
+var NameOnlineHTML = "<h3>fill</h3>";
+var LocationOnlineHTML = "<h3>fill</h3>";
+var DatesOnlineHTML = "<h4>fill</h4>";
+var DegreeOnlineHTML = "<h4>fill</h4>";
+var DescriptionOnlineHTML = "<p>fill</p>";
+
+var ContactHeaderHTML = "<h1>fill</h1>";
+var MessageContactHTML = "<h3>fill</h3>";
+var PhoneContactHTML = "<p>fill</p>";
+var EmailContactHTML = "<p>fill</p>";
+var LocationContactHTML = "<p>fill</p>";
+var BlogContactHTML = "<p>fill</p>";
+
+var TwitterIconHTML = "<img src=\"fill\">";
+var InstagramIconHTML = "<img src=\"fill\">";
+var YoutubeIconHTML = "<img src=\"fill\">";
+var LinkedinIconHTML = "<img src=\"fill\">";
+var SkypeIconHTML = "<img src=\"fill\">";
+var GithubIconHTML = "<img src=\"fill\">";
+var EmailIconHTML = "<img src=\"fill\">";
+
+var TwitterUsernameHTML = "<p>fill</p>";
+var InstagramUsernameHTML = "<p>fill</p>";
+var YoutubeUsernameHTML = "<p>fill</p>";
+var LinkedinUsernameHTML = "<p>fill</p>";
+var SkypeUsernameHTML = "<p>fill</p>";
+var GithubUsernameHTML = "<p>fill</p>";
+var EmailUsernameHTML = "<p>fill</p>";
