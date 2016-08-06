@@ -19,18 +19,27 @@ There are a few additional objects that will be added:
 navigation - all the different navigation tabs
 */
 
+var quickinfo = {
+  "name":"Omar Jandali",
+  "picture":"url",
+  "quote":"You dont learn to walk by following rules. You learn by doing and falling over. - Sir Richard Branson",
+  "info":[
+  "position":"Front End Web Developer",
+  "email":"omar@omnacore.com",
+  "location":"Mission Viejo, CA",
+  ]
+}
 var generalInfo = {
   "name":"Omar Jandali",
   "position":"Front End Web Developer",
-  "document":"Master Resume",
   "location":"Mission Viejo, CA",
   "age":"23 Years old",
-  "about":[
+  "facts":[
     "Greatest strength - motivated, efficient",
     "Greatest weakness - impulsive, distracted",
-    "Describe yourself - ambitious, charismatic, visionary",
-    "Dream job - Self Driving Car Software Developer at Google",
-    "Work Environment - open and free space to push creativity"
+    "Describe yourself - ambitious, charismatic",
+    "Dream job - Machine Learning Software Developer",
+    "Work Environment - open space to push creativity"
   ]
 }
 var contactInfo = {
